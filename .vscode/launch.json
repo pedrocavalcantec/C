@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/pedro.LAPTOP-MJDAOC0B/OneDrive/Documentos/Digital College/C/C",
-      "program": "c:/Users/pedro.LAPTOP-MJDAOC0B/OneDrive/Documentos/Digital College/C/C/build/Debug/outDebug",
+      "cwd": "c:/Users/pedro.LAPTOP-MJDAOC0B/Downloads/Nova pasta/c",
+      "program": "c:/Users/pedro.LAPTOP-MJDAOC0B/Downloads/Nova pasta/c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

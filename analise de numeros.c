@@ -15,7 +15,7 @@ Code, Compile, Run and Debug online from anywhere in world.
  
  int main()
 {      
-    /* declarando os numeros (n) e colocando o tamanho(t) da array */
+    /* declarando os numeros (n) e colocando o tamanho(t) da  array */
     
     float n[]={3, 4, 5, 1, 43, 9, 32};
     int t = 5;
